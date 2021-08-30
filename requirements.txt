@@ -1,3 +1,6 @@
+logging
+typing
 telegram
 requests
 python-telegram-bot
+pyTelegramBotAPI == 3.8.1
