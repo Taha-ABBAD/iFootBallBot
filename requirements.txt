@@ -1,4 +1,3 @@
-json
 telegram
 requests
 python-telegram-bot
